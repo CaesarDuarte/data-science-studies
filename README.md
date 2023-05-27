@@ -10,11 +10,11 @@ O objetivo deste repositório é servir como um local centralizado para meus est
 
 O repositório está organizado em pastas temáticas, abrangendo diversos tópicos relevantes para um Cientista de Dados. Algumas das áreas que você encontrará aqui incluem:
 
-- Estatística
-- Pré-cálculo
-- Machine Learning
-- Python
-- SQL
+- [Estatística](https://github.com/CaesarDuarte/data-science-studies/tree/main/estatistica)
+- [Pré-cálculo](https://github.com/CaesarDuarte/data-science-studies/tree/main/pre-calculo)
+- [Machine Learning](https://github.com/CaesarDuarte/data-science-studies/tree/main/machine-learning)
+- [Python](https://github.com/CaesarDuarte/data-science-studies/tree/main/python)
+- [SQL](https://github.com/CaesarDuarte/data-science-studies/tree/main/sql)
 
 Cada pasta contém materiais de estudo, anotações, exercícios práticos e exemplos, à medida que avanço em minha jornada de aprendizado.
 
